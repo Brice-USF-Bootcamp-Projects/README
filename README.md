@@ -3,8 +3,7 @@
 This organization houses coursework and projects created during my Data Science and Software Engineering bootcamp training.  
 All repositories within this organization are **private** and retained solely for educational reference.
 
-These projects represent my **learning phase** — where I explored core programming concepts, version control workflows,  
-and foundational tools that I now use professionally in backend engineering, data modeling, and quantitative research.
+These projects represent my **learning phase** — where I explored core programming concepts, version control workflows, and foundational tools that I now use professionally in backend engineering, data modeling, and quantitative research.
 
 ## Why This Organization Exists
 
@@ -13,8 +12,10 @@ and foundational tools that I now use professionally in backend engineering, dat
 - To separate guided academic work from my **professional portfolio** hosted in:
   - [Brice-Backend-Projects](https://github.com/Brice-Backend-Projects)
   - [Brice-Financial-Projects](https://github.com/Brice-Financial-Projects)
+  - [Brice-Engineering-Projects](https://github.com/Brice-Engineering-Projects)
+  - [Brice-Data-Science-Projects](https://github.com/Brice-Data-Science)
+  - [Brice-Machine-Learning-Projects](https://github.com/Brice-Machine-Learning)
   - [QuantShift-Lab](https://github.com/QuantShift-Lab)
-  - [Data-Forge-Academy](https://github.com/Data-Forge-Academy)
 
 ## Visibility
 
