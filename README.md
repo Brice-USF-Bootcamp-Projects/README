@@ -1,9 +1,9 @@
-# 🎓 Bootcamp Archive — Learning Phase Repositories
+# 🎓 Bootcamp Archive: Learning Phase Repositories
 
 This organization houses coursework and projects created during my Data Science and Software Engineering bootcamp training.  
 All repositories within this organization are **private** and retained solely for educational reference.
 
-These projects represent my **learning phase** — where I explored core programming concepts, version control workflows, and foundational tools that I now use professionally in backend engineering, data modeling, and quantitative research.
+These projects represent my **learning phase**, where I explored core programming concepts, version control workflows, and foundational tools that I now use professionally in backend engineering, data modeling, and quantitative research.
 
 ## Why This Organization Exists
 
